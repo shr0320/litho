@@ -1,0 +1,362 @@
+https://lithohtml.themezaa.com/home-interior-design.html#
+
+Corporate
+Startup
+Business
+Corporate
+Finance
+Application
+Consulting
+Digital agency
+SEO agency
+Events & conference
+Marketing agency
+
+Specialized
+Restaurant
+Architecture
+Hotel & resort
+Travel agency
+Yoga & meditation
+Gym & fitness
+Spa salon
+Cafe
+Home decor
+Interior design
+
+Portfolio
+Design agency
+Web agency
+Creative agency
+Freelancer
+Branding agency
+Photography
+Personal portfolio
+Vertical portfolio
+Interactive portfolio
+Split portfolio
+Creative portfolio
+
+Other
+Furniture shop
+Fashion shop
+Magazine
+Lifestyle blog
+Classic blog
+Blog metro
+
+Services
+Contact
+Additional pages
+
+Our team
+Latest news
+Pricing packages
+Error 404
+Maintenance
+Coming soon
+Coming soon - V2
+FAQ's
+Search result
+
+
+General
+Accordions
+Buttons
+Team
+Team carousel
+Clients
+Client carousel
+Subscribe
+Call to action
+Tab
+Google map
+Contact form
+Image gallery
+
+Content & infographics
+Progress bar
+Icon with text
+Over line icon box
+Custom icon with text
+Counters
+Countdown
+Pie charts
+Fancy text box
+Text box
+Fancy text
+
+Interactive
+Testimonials
+Testimonials carousel
+Video
+Interactive banners
+Services
+Info banner
+Rotate box
+Process step
+Instagram
+Parallax scrolling
+Text slider
+
+Text & containers
+Heading
+Drop caps
+Columns
+Blockquote
+Highlights
+Message box
+Social icons
+Lists
+Separators
+Pricing table
+
+Header and menu
+Footer
+Page title
+Modal popup
+Icon packs
+Animations
+
+Transparent header
+White header
+Dark header
+Header with top bar
+Header with push
+Center navigation
+Center logo
+Top logo
+One page navigation
+Hamburger menu
+Left menu
+Header type
+Mobile menu
+
+Footer style 01
+Footer style 02
+Footer style 03
+Footer style 04
+Footer style 05
+Footer style 06
+Footer style 07
+Footer style 08
+Footer style 09
+Footer style 10
+Footer style 11
+Footer style 12
+
+Left alignment
+Right alignment
+Center alignment
+Colorful style
+Big typography
+Parallax background
+Separate breadcrumbs
+Gallery background
+Background video
+Mini version
+
+Simple modal
+Subscription
+Contact form
+Youtube video
+Vimeo video
+Google map
+
+Icons mind line
+Icons mind solid
+Feather
+Font awesome
+ET line
+Themify
+Simple line
+
+Blog grid
+Blog masonry
+Blog classic
+Blog simple
+Blog side image
+Blog metro
+Blog overlay image
+Blog modern
+Blog clean
+Blog widget
+Blog standard
+Post layout
+Post types
+
+Blog post layout 01
+Blog post layout 02
+Blog post layout 03
+Blog post layout 04
+Blog post layout 05
+
+Standard post
+Gallery post
+Slider post
+HTML5 video post
+Youtube video post
+Vimeo video post
+Audio post
+Blockquote post
+Full width post
+
+//////////////
+헤더
+//////////////
+width: 100% 
+hight: 80px
+
+포지션 고정 상단 좌측
+내부의 너비는 좌우에 마진값 35px
+로고 : 좌측
+네비게이션 : 가운데 고정
+SNS(sidemenu): 우측
+
+이벤트: 마수으 휠 이벤트
+마우스휠이 위로 올라가면 헤더 영역이 보이고
+마우스휠이 아래로 내려가면 헤더 영역이 사라진다
+
+헤더영역 배경 기본 투명
+스크롤탑값이 30px이상이면 
+헤더영역 배경이 검정으로 변함
+스크롤 탑값이 30px 이하이면 
+헤더영역 배경이 투명 변경
+
+
+네비게이션
+GNB(메인메뉴)와 LNB(서브메뉴)
+GNB(메인메뉴)에 마우스 오버시 LNB(서브메뉴)가 보임 (show())
+GNB(메인메뉴)에 마우스가 떠나면 LNB(서브메뉴)가 숨겨라 (hide())
+LNB안에 또다른 LNB 구현
+해당 LNB(서브메뉴)에 마우스 오버시 해당 LNB(서브메뉴)가 보임 (show())
+
+GNB(메인메뉴) 선택시 하이라이트 더 어두워지거나 색상으로 표시 되어야 한다.
+그리고 메인메뉴 하단에 데코레이션을 표시한다. (애니메이션 언더바가 가운데서 나타남)
+
+LOGO(로고): 111PX * 36px
+GNB(메인메뉴) : 14PX; #FFF, BOLD(600)
+LNB(서브메뉴) : 13PX; #FFF, BOLD(500)
+SIDE(사이드메뉴,SNS) : 15PX; #FFF
+
+HOME
+PAGES
+PORTFOLIO
+ELEMENTS
+FEATURES
+BLOG
+SHOP
+
+//////////////
+섹션1
+/////////////
+너비 100%
+높이 창높이로
+
+슬라이드 구성
+3개
+
+우측하단에 슬라이드 텍스트 콘텐츠 배경 #FFF
+너비 600PX
+높이 370PX
+
+좌우 화살버튼
+너비 40px
+높이 40px
+하단에 페이지 버튼 (인디게이터버튼) 3개
+가운데 배치
+페이지 버튼(인디게이트버튼) 크리: 10PX*10PX 
+배경: RGBA(255,255,255,1) 활성화
+배경: RGBA(255,255,255,.7) 비활성화
+좌우 여백 6PX
+
+/////////////
+섹션2
+/////////////
+너비: 100%
+높이: 288px
+padding: 160px 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+
+섹션3
+너비: 100%
+높이: 544px
+padding: 130px 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+
+섹션4
+너비: 100%
+높이: 578px
+padding: 130px 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+
+섹션5
+너비: 100%
+높이: 710px
+padding: 130px 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+슬라이드 4개
+슬라이드 높이: 530px
+좌측여백 140px
+
+섹션6
+너비: 100%
+높이: 74px
+padding: 0 0 130px 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+카운터 숫자
+
+섹션7
+너비: 100%
+높이: 800px
+padding: 0;
+콘텐츠 영역 너비: 100%;
+콘텐츠 영역 마진: 0;
+배경: 이미지;
+
+
+섹션8
+너비: 100%
+높이: 180px
+padding: 130px 0;
+콘텐츠 영역 너비: 1170;
+콘텐츠 영역 마진: 0 15;
+배경: #fff;
+슬라이드 3개 구성
+
+
+섹션9
+너비: 100%
+높이: 565px
+padding: 130px 0;
+콘텐츠 영역 너비: 100%;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+갤러리 이미자와 컨텐츠 사이즈
+
+섹션10
+너비: 100%
+높이: 348px
+padding: 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: #fff;
+갤러리 이미자와 컨텐츠 사이즈
+
+푸터
+너비: 100%
+높이: 88px
+padding: 115px 0;
+콘텐츠 영역 너비: 1170px;
+콘텐츠 영역 마진: 0 15px;
+배경: 232323;
